@@ -1,16 +1,26 @@
-## Hi there 👋
+### 👋 Hi, I'm Praveen Kumar Katta
 
-<!--
-**PraveenKumar-Katta/PraveenKumar-Katta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer | 🚀 Fullstack Web Apps | 🎯 Focused on Scalability  
+🧠 Passionate about DSA and System Design  
+📈 Constantly Learning & Building
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+
+---
+
+### 📈 GitHub Stats  
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraveenKumar-Katta&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKumar-Katta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 Connect with me  
+- Portfolio: [your-site.com](https://your-site.com)  
+- LinkedIn: [linkedin.com/in/praveen5500u](https://www.linkedin.com/in/praveen5500u/) 
+- GitHub: [PraveenKumar-Katta](https://github.com/PraveenKumar-Katta)
