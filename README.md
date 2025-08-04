@@ -21,6 +21,6 @@
 ---
 
 ### 📫 Connect with me  
-- Portfolio: [your-site.com](https://your-site.com)  
+- Portfolio: [praveenkumarkatta](https://praveenkumarkatta.netlify.app/) 
 - LinkedIn: [linkedin.com/in/praveen5500u](https://www.linkedin.com/in/praveen5500u/) 
 - GitHub: [PraveenKumar-Katta](https://github.com/PraveenKumar-Katta)
