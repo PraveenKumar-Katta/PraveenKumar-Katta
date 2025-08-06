@@ -1,26 +1,74 @@
-### 👋 Hi, I'm Praveen Kumar Katta
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhlNDB5bHdmaXFpb2d1M3Iza3F5dWJzZm9rYXV0ZWZsaWljem5yaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="header gif" width="1000px" height="300px" />
 
-💻 MERN Stack Developer | 🚀 Fullstack Web Apps | 🎯 Focused on Scalability  
-🧠 Passionate about DSA and System Design  
-📈 Constantly Learning & Building
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Praveen Kumar</h1>
 
----
-
-### 🛠️ Tech Stack  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+<h3 align="center">💻 Full Stack Developer | 🛠 MERN Stack | 🧠 DSA Enthusiast | 🇮🇳 From India</h3>
 
 ---
 
-### 📈 GitHub Stats  
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraveenKumar-Katta&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKumar-Katta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 About Me
+- 🔭 I’m currently working on building scalable full-stack web apps  
+- 🧠 Sharpening my skills in DSA, System Design, and Cloud Deployment  
+- 💡 I love building real-time, responsive, and user-centric platforms  
+- 📈 Passionate about continuous learning and tech growth
 
 ---
 
-### 📫 Connect with me  
-- Portfolio: [praveenkumarkatta](https://praveenkumarkatta.netlify.app/) 
-- LinkedIn: [linkedin.com/in/praveen5500u](https://www.linkedin.com/in/praveen5500u/) 
-- GitHub: [PraveenKumar-Katta](https://github.com/PraveenKumar-Katta)
+### 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,tailwind,redux,git,github,vscode" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+#### 🛒 BuyMart – Multi-Vendor E-commerce Platform  
+A role-based e-commerce platform where vendors can manage products, users can browse/search/filter, add to cart, and place orders. Admin monitors vendors and sales activities.  
+**Tags:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white)  
+
+---
+
+#### 💬 Eventify - Event Management Application  
+Built a event management app with features like user authentication, multistep event creation, chat amonog event invitees, and sending invitations via Email.  
+**Tags:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white) 
+
+---
+
+#### 📚 EduPayout – Payout Management Dashboard  
+Responsive dashboard for educational platforms to manage payments, track transactions, and filter by status/date. Built with Firebase and Tailwind.  
+**Tags:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PraveenKumar-Katta&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenKumar-Katta&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PraveenKumar-Katta&theme=radical&no-frame=true&row=1" />
+</p>
+
+---
+
+### 📌 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKumar-Katta&layout=compact&theme=tokyonight" width="50%" />
+</p>
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://praveenkumarkatta.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=web"></a>
+  <a href="https://www.linkedin.com/in/praveen5500u/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to connect or check out my projects.*  
