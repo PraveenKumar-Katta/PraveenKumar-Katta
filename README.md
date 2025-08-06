@@ -21,26 +21,6 @@
 
 ---
 
-### 📂 Featured Projects
-
-#### 🛒 BuyMart – Multi-Vendor E-commerce Platform  
-A role-based e-commerce platform where vendors can manage products, users can browse/search/filter, add to cart, and place orders. Admin monitors vendors and sales activities.  
-**Tags:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white)  
-
----
-
-#### 💬 Eventify - Event Management Application  
-Built a event management app with features like user authentication, multistep event creation, chat amonog event invitees, and sending invitations via Email.  
-**Tags:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white) 
-
----
-
-#### 📚 EduPayout – Payout Management Dashboard  
-Responsive dashboard for educational platforms to manage payments, track transactions, and filter by status/date. Built with Firebase and Tailwind.  
-**Tags:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)  
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PraveenKumar-Katta&show_icons=true&theme=tokyonight" width="48%" />
