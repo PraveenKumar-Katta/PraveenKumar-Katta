@@ -11,7 +11,7 @@
 - 🧠 Sharpening my skills in DSA, System Design, and Cloud Deployment  
 - 💡 I love building real-time, responsive, and user-centric platforms  
 - 📈 Passionate about continuous learning and tech growth
-- 👨‍💻 All of my projects are available at <a href="https://praveenkumarkatta.netlify.app/">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://praveenkumar-katta.netlify.app/">My Portfolio</a>
 - 📫 Reach me at praveenkumar5500u@gmail.com
 
 
