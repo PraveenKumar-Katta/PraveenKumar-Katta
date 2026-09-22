@@ -7,10 +7,11 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on building scalable full-stack web apps  
-- 🧠 Sharpening my skills in DSA, System Design, and Cloud Deployment  
-- 💡 I love building real-time, responsive, and user-centric platforms  
-- 📈 Passionate about continuous learning and tech growth
+- 🔭 Currently building production features for an identity-verification platform (React, Node.js, Express, MongoDB) integrating Aadhaar & DigiLocker
+- 🛠️ Comfortable across the stack — from React UI and reusable components to backend logic, MongoDB indexing/transactions, and encryption for sensitive data
+- 🧪 Big on testing — write and maintain automated test suites with Cypress, Chai, and Mocha to catch regressions before they ship
+- 🧠 Sharpening my skills in DSA, System Design, and Cloud Deployment
+- 💡 I love building real-time, responsive, and user-centric platforms
 - 👨‍💻 All of my projects are available at <a href="https://praveenkumar-katta.netlify.app/">My Portfolio</a>
 - 📫 Reach me at praveenkumar5500u@gmail.com
 
