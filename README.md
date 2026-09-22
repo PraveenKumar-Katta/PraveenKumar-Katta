@@ -26,23 +26,17 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraveenKumar-Katta&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenKumar-Katta&theme=tokyonight" width="48%" />
-</p>
-
----
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PraveenKumar-Katta&theme=radical&no-frame=true&row=1" />
+  <img src="https://streak-stats.demolab.com/?user=PraveenKumar-Katta&background=0D1117&stroke=0000&ring=34D399&fire=34D399&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=9CA3AF&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+  <img src="https://ghchart.rshah.org/34D399/PraveenKumar-Katta" width="78%" />
 </p>
 
 ---
 
 ### 📌 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKumar-Katta&layout=compact&theme=tokyonight" width="50%" />
-</p>
+<div align="center flex">
+  <img src="https://static.vecteezy.com/system/resources/previews/012/697/298/original/3d-javascript-logo-design-free-png.png" width="100" height="100" />
+  <img src = "https://static.vecteezy.com/system/resources/previews/012/697/295/original/3d-python-programming-language-logo-free-png.png" width="100" height="100" />
+</div>
 
 ---
 
