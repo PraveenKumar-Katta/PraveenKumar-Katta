@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Praveen Kumar</h1>
 
-<h3 align="center">💻 Full Stack Developer | 🛠 MERN Stack | 🧠 DSA Enthusiast </h3>
+<h3 align="center">💻 Full Stack Developer | 🛠 MERN Stack | 🧠 AI Learner </h3>
 
 ---
 
@@ -10,7 +10,7 @@
 - 🔭 Currently building production features for an identity-verification platform (React, Node.js, Express, MongoDB) integrating Aadhaar & DigiLocker
 - 🛠️ Comfortable across the stack — from React UI and reusable components to backend logic, MongoDB indexing/transactions, and encryption for sensitive data
 - 🧪 Big on testing — write and maintain automated test suites with Cypress, Chai, and Mocha to catch regressions before they ship
-- 🧠 Sharpening my skills in DSA, System Design, and Cloud Deployment
+- 🧠 Sharpening my skills in DSA, System Design, and AI
 - 💡 I love building real-time, responsive, and user-centric platforms
 - 👨‍💻 All of my projects are available at <a href="https://praveenkumar-katta.netlify.app/">My Portfolio</a>
 - 📫 Reach me at praveenkumar5500u@gmail.com
